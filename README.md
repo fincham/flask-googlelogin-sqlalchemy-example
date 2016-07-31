@@ -1,2 +1,3 @@
 # flask-googlelogin-sqlalchemy-example
-Example using SQLAlchemy and Flask-GoogleLogin
+
+Modifies https://github.com/insynchq/flask-googlelogin/blob/master/example.py to make use of SQLAlchemy.
